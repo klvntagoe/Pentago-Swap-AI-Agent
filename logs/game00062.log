@@ -1,0 +1,12 @@
+# Server version 0.08 running on Kelvins-Laptop:8123
+# Game ID: 62
+# Board class: pentago_swap.PentagoBoard
+# Timeout: 2000000000
+# First Move Timeout: 30000
+# Date: Tue Apr 09 15:30:51 EDT 2019
+# Player 1: Player-0, '260737250', running on Kelvins-Laptop
+# Player 2: Player-1, 'Human', running on Kelvins-Laptop
+START Player-0 260737250
+START Player-1 Human
+GAMEOVER TIMEOUT WINNER 1
+# Game ended: Tue Apr 09 15:31:22 EDT 2019
